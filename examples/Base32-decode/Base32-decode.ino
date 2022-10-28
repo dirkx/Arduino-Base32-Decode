@@ -4,7 +4,7 @@
 #include <assert.h>
 #include <stdio.h>
 
-#include <base32-decode.h>
+#include <Base32-Decode.h>
 
 void example1() {
   String in, out;

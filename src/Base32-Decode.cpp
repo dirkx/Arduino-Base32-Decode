@@ -2,7 +2,7 @@
 #include <limits.h>
 #include <string.h>
 
-#include "base32-decode.h"
+#include "Base32-Decode.h"
 
 // Code and table taken from https://github.com/ekscrypto/Base32/
 // under the Unlincense https://unlicense.org> and also by
